@@ -1,0 +1,90 @@
+{
+    "content_type": "location",
+    "message_id": 148,
+    "from_user": {
+        "id": 242751839,
+        "is_bot": false,
+        "first_name": "Дилфуза",
+        "username": "murodova_dilfuza",
+        "last_name": null,
+        "language_code": "ru"
+    },
+    "date": 1585675380,
+    "chat": {
+        "type": "private",
+        "last_name": null,
+        "first_name": "Дилфуза",
+        "username": "murodova_dilfuza",
+        "id": 242751839,
+        "title": null,
+        "all_members_are_administrators": null,
+        "photo": null,
+        "description": null,
+        "invite_link": null,
+        "pinned_message": null,
+        "sticker_set_name": null,
+        "can_set_sticker_set": null
+    },
+    "forward_from_chat": null,
+    "forward_from_message_id": null,
+    "forward_from": null,
+    "forward_date": null,
+    "reply_to_message": null,
+    "edit_date": null,
+    "media_group_id": null,
+    "author_signature": null,
+    "text": null,
+    "entities": null,
+    "caption_entities": null,
+    "audio": null,
+    "document": null,
+    "photo": null,
+    "sticker": null,
+    "video": null,
+    "video_note": null,
+    "voice": null,
+    "caption": null,
+    "contact": null,
+    "location": {
+        "longitude": 69.312009,
+        "latitude": 41.274373
+    },
+    "venue": null,
+    "animation": null,
+    "new_chat_member": null,
+    "new_chat_members": null,
+    "left_chat_member": null,
+    "new_chat_title": null,
+    "new_chat_photo": null,
+    "delete_chat_photo": null,
+    "group_chat_created": null,
+    "supergroup_chat_created": null,
+    "channel_chat_created": null,
+    "migrate_to_chat_id": null,
+    "migrate_from_chat_id": null,
+    "pinned_message": null,
+    "invoice": null,
+    "successful_payment": null,
+    "connected_website": null,
+    "json": {
+        "message_id": 148,
+        "from": {
+            "id": 242751839,
+            "is_bot": false,
+            "first_name": "Дилфуза",
+            "username": "murodova_dilfuza",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 242751839,
+            "first_name": "Дилфуза",
+            "username": "murodova_dilfuza",
+            "type": "private"
+        },
+        "date": 1585675380,
+        "location": {
+            "latitude": 41.274373,
+            "longitude": 69.312009
+        }
+    }
+}
