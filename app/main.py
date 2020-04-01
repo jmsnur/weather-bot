@@ -140,12 +140,10 @@ def curr(message):
     re = requests.get(req)
     r = re.json()
 
-    msg = ''
+    msg = 'Doesn\'t exist'
     for i in range(len(r)):
         if r[i]['code'] == code:
             msg = r[i]['cb_price']+' soms'
-        else:
-            msg = 'Doesn\'t exist'
     m = bot.send_message(chat_id,msg)
     menu(message)
 
